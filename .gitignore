@@ -21,3 +21,6 @@
 
 # ignore all file in /public
 /public/*
+
+# Ignore application configuration
+/config/application.yml
